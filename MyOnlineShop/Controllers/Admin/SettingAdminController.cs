@@ -23,7 +23,7 @@ namespace MyOnlineShop.Controllers.Admin
         }
 
         [HttpPost]
-        public IActionResult Index(SettingAdminViewModel model) // SettingViewModel فرضی
+        public IActionResult Index(SettingAdminViewModel model)
         {
             // دریافت اطلاعات تنظیمات از فرم و ذخیره در پایگاه داده
             

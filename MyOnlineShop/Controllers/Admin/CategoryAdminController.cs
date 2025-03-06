@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MyOnlineShop.Services;
-using MyOnlineShop.ViewModels;
+using MyOnlineShop.ViewModels.Admin;
 
 namespace MyOnlineShop.Controllers.Admin
 {
@@ -26,7 +26,7 @@ namespace MyOnlineShop.Controllers.Admin
         }
 
         [HttpPost]
-        public IActionResult Create(CategoryViewModel model)
+        public IActionResult Create(CategoryAdminViewModel model)
         {
             // دریافت اطلاعات دسته‌بندی جدید از فرم و ذخیره در پایگاه داده
 
@@ -45,7 +45,7 @@ namespace MyOnlineShop.Controllers.Admin
         }
 
         [HttpPost]
-        public IActionResult Edit(int id, CategoryViewModel model) // CategoryViewModel فرضی
+        public IActionResult Edit(int id, CategoryAdminViewModel model)
         {
             // دریافت اطلاعات ویرایش شده دسته‌بندی از فرم و به‌روزرسانی در پایگاه داده
 
