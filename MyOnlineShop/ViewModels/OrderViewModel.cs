@@ -10,12 +10,12 @@ namespace MyOnlineShop.ViewModels
         public DateTime OrderDate { get; set; } // تاریخ ثبت سفارش
         public decimal TotalAmount { get; set; } // مبلغ کل سفارش
         public string OrderStatus { get; set; } // وضعیت سفارش
-     // public List<OrderItemViewModel> OrderItems { get; set; } // لیست آیتم‌های سفارش
-     // public CustomerViewModel Customer { get; set; } // اطلاعات مشتری سفارش‌دهنده
-     // public AddressViewModel ShippingAddress { get; set; } // آدرس حمل و نقل
-     // public AddressViewModel BillingAddress { get; set; } // آدرس صورتحساب
-     // public PaymentMethodViewModel PaymentMethod { get; set; } // روش پرداخت
-     // public ShippingMethodViewModel ShippingMethod { get; set; } // روش حمل و نقل
+      public List<OrderItemViewModel> OrderItems { get; set; } // لیست آیتم‌های سفارش
+      public CustomerViewModel Customer { get; set; } // اطلاعات مشتری سفارش‌دهنده
+      public AddressViewModel ShippingAddress { get; set; } // آدرس حمل و نقل
+      public AddressViewModel BillingAddress { get; set; } // آدرس صورتحساب
+      public PaymentMethodViewModel PaymentMethod { get; set; } // روش پرداخت
+      public ShippingMethodViewModel ShippingMethod { get; set; } // روش حمل و نقل
 
     }
 
