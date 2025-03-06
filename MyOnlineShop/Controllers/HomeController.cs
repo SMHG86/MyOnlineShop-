@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MyOnlineShop.Models;
 
@@ -15,6 +15,12 @@ namespace MyOnlineShop.Controllers
 
         public IActionResult Index()
         {
+            return View();
+        }
+
+        public IActionResult ContactUs()
+        {
+            // نمایش صفحه تماس با ما
             return View();
         }
 

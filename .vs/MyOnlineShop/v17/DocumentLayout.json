@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -319,10 +327,6 @@
       "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -334,11 +338,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyOnlineShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:49:49.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyOnlineShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIAwwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:16:37.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_NotFound.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Shared\\_NotFound.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Shared\\_NotFound.cshtml",
@@ -346,12 +376,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Shared\\_NotFound.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T13:04:22.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:04:22.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Shared\\_LoginPartial.cshtml",
@@ -359,25 +388,24 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T13:03:39.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T13:03:39.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\AccountController.cs",
               "RelativeToolTip": "MyOnlineShop\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T11:35:54.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Shared\\_AdminLayout.cshtml",
@@ -385,12 +413,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:59:13.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:59:13.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Shared\\_Layout.cshtml",
@@ -398,12 +425,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:57:41.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:57:41.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Admin\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Admin\\Category\\Edit.cshtml",
@@ -411,12 +437,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Admin\\Category\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:56:38.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:56:38.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Admin\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Admin\\Category\\Create.cshtml",
@@ -424,12 +449,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Admin\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:56:21.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:56:21.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Admin\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Admin\\Category\\Index.cshtml",
@@ -437,12 +461,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Admin\\Category\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:56:11.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:56:11.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Admin\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Admin\\Product\\Edit.cshtml",
@@ -450,12 +473,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Admin\\Product\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:55:44.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:55:44.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Admin\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Admin\\Product\\Create.cshtml",
@@ -463,12 +485,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Admin\\Product\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:55:31.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:55:31.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Admin\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Admin\\Product\\Index.cshtml",
@@ -476,12 +497,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Admin\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:55:24.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:55:24.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Admin\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Admin\\Dashboard.cshtml",
@@ -489,12 +509,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Admin\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:54:32.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:54:32.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Account\\Profile.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Account\\Profile.cshtml",
@@ -502,12 +521,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Account\\Profile.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:53:15.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:53:15.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Account\\Register.cshtml",
@@ -515,12 +533,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:53:06.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:53:06.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Account\\Login.cshtml",
@@ -528,12 +545,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:52:55.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:52:55.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "OrderHistory.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Order\\OrderHistory.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Order\\OrderHistory.cshtml",
@@ -541,12 +557,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Order\\OrderHistory.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:52:01.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:52:01.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Order\\Details.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Order\\Details.cshtml",
@@ -554,12 +569,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Order\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:51:51.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:51:51.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "OrderConfirmation.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\ShoppingCart\\OrderConfirmation.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\ShoppingCart\\OrderConfirmation.cshtml",
@@ -567,12 +581,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\ShoppingCart\\OrderConfirmation.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:51:06.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:51:06.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\ShoppingCart\\Checkout.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\ShoppingCart\\Checkout.cshtml",
@@ -580,12 +593,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\ShoppingCart\\Checkout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:50:56.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:50:56.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\ShoppingCart\\Index.cshtml",
@@ -593,12 +605,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\ShoppingCart\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:50:40.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:50:40.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ProductsByCategory.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Category\\ProductsByCategory.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Category\\ProductsByCategory.cshtml",
@@ -606,12 +617,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Category\\ProductsByCategory.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:50:15.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:50:15.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Category\\Index.cshtml",
@@ -619,12 +629,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:49:53.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:49:53.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Search.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Product\\Search.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Product\\Search.cshtml",
@@ -632,12 +641,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Product\\Search.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:49:25.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:49:25.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Product\\Details.cshtml",
@@ -645,12 +653,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Product\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:49:14.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:49:14.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Product\\Index.cshtml",
@@ -658,12 +665,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:48:52.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:48:52.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ContactUs.cshtml",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Views\\Home\\ContactUs.cshtml",
               "RelativeDocumentMoniker": "MyOnlineShop\\Views\\Home\\ContactUs.cshtml",
@@ -671,12 +677,11 @@
               "RelativeToolTip": "MyOnlineShop\\Views\\Home\\ContactUs.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T12:47:27.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:47:27.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "SettingAdminViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
@@ -684,12 +689,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:23:51.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:23:51.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "CustomerAdminViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
@@ -697,12 +701,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:23:42.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:23:42.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "OrderAdminViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
@@ -710,12 +713,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:23:34.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:23:34.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "CategoryAdminViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
@@ -723,12 +725,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:23:24.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:23:24.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "ProductAdminViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
@@ -736,12 +737,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:23:14.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:23:14.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\RegisterViewModel.cs",
@@ -749,12 +749,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\RegisterViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:22:39.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:22:39.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\LoginViewModel.cs",
@@ -762,12 +761,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:22:29.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:22:29.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "OrderViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\OrderViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\OrderViewModel.cs",
@@ -775,12 +773,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\OrderViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:22:11.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:22:11.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "ShoppingCartViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\ShoppingCartViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\ShoppingCartViewModel.cs",
@@ -788,12 +785,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\ShoppingCartViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:21:36.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:21:36.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "CategoryViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\CategoryViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\CategoryViewModel.cs",
@@ -801,12 +797,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\CategoryViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:21:26.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:21:26.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "ProductDetailsViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\ProductDetailsViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\ProductDetailsViewModel.cs",
@@ -814,12 +809,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\ProductDetailsViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:21:16.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:21:16.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ProductListViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\ProductListViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\ProductListViewModel.cs",
@@ -827,12 +821,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\ProductListViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:21:07.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:21:07.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\HomeViewModel.cs",
@@ -840,12 +833,11 @@
               "RelativeToolTip": "MyOnlineShop\\ViewModels\\HomeViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:20:53.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:20:53.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "SettingService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\Implementations\\SettingService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\Implementations\\SettingService.cs",
@@ -853,12 +845,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\Implementations\\SettingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:18:05.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:18:05.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "ShippingService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\Implementations\\ShippingService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\Implementations\\ShippingService.cs",
@@ -866,12 +857,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\Implementations\\ShippingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:17:51.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:17:51.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "MyOnlineShop.csproj",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop.csproj",
               "RelativeDocumentMoniker": "MyOnlineShop\\MyOnlineShop.csproj",
@@ -879,12 +869,11 @@
               "RelativeToolTip": "MyOnlineShop\\MyOnlineShop.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T11:41:33.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T11:41:33.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "PaymentService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\Implementations\\PaymentService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\Implementations\\PaymentService.cs",
@@ -892,12 +881,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\Implementations\\PaymentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:17:40.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:17:40.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\Implementations\\CustomerService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\Implementations\\CustomerService.cs",
@@ -905,12 +893,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\Implementations\\CustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:17:22.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:17:22.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "ShoppingCartService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\Implementations\\ShoppingCartService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\Implementations\\ShoppingCartService.cs",
@@ -918,12 +905,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\Implementations\\ShoppingCartService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:16:59.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:16:59.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "OrderService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\Implementations\\OrderService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\Implementations\\OrderService.cs",
@@ -931,12 +917,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\Implementations\\OrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:16:46.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:16:46.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\Implementations\\CategoryService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\Implementations\\CategoryService.cs",
@@ -944,12 +929,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\Implementations\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:16:22.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:16:22.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "ISettingService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\ISettingService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\ISettingService.cs",
@@ -957,12 +941,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\ISettingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:14:28.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:14:28.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\ICategoryService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\ICategoryService.cs",
@@ -970,12 +953,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:13:10.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:13:10.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\Implementations\\ProductService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\Implementations\\ProductService.cs",
@@ -983,12 +965,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\Implementations\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:12:55.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:12:55.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "IShippingService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\IShippingService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\IShippingService.cs",
@@ -996,12 +977,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\IShippingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:14:14.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:14:14.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "IPaymentService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\IPaymentService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\IPaymentService.cs",
@@ -1009,12 +989,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\IPaymentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:14:04.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:14:04.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "ICustomerService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\ICustomerService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\ICustomerService.cs",
@@ -1022,12 +1001,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\ICustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:13:51.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:13:51.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "IShoppingCartService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\IShoppingCartService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\IShoppingCartService.cs",
@@ -1035,12 +1013,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\IShoppingCartService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:13:38.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:13:38.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\IOrderService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\IOrderService.cs",
@@ -1048,12 +1025,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\IOrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:13:25.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:13:25.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Services\\IProductService.cs",
@@ -1061,12 +1037,11 @@
               "RelativeToolTip": "MyOnlineShop\\Services\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:12:30.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:12:30.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "Setting.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\Setting.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\Setting.cs",
@@ -1074,12 +1049,11 @@
               "RelativeToolTip": "MyOnlineShop\\Models\\Setting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:07:10.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T12:07:10.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "Review.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\Review.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\Review.cs",
@@ -1091,7 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "Vendor.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\Vendor.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\Vendor.cs",
@@ -1103,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "Manufacturer.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\Manufacturer.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\Manufacturer.cs",
@@ -1115,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "ShippingMethod.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\ShippingMethod.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\ShippingMethod.cs",
@@ -1127,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\PaymentMethod.cs",
@@ -1139,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "ShoppingCartItem.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\ShoppingCartItem.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\ShoppingCartItem.cs",
@@ -1151,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\OrderItem.cs",
@@ -1163,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\Order.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\Order.cs",
@@ -1175,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\Customer.cs",
@@ -1187,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\Category.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\Category.cs",
@@ -1199,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Models\\Product.cs",
@@ -1211,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Data\\EntityConfigurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Data\\EntityConfigurations\\CategoryConfiguration.cs",
@@ -1223,7 +1197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Data\\EntityConfigurations\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Data\\EntityConfigurations\\ProductConfiguration.cs",
@@ -1235,7 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Data\\ApplicationDbContext.cs",
@@ -1247,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "SettingAdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\SettingAdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\SettingAdminController.cs",
@@ -1259,7 +1233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "CustomerAdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\CustomerAdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\CustomerAdminController.cs",
@@ -1271,7 +1245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "OrderAdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\OrderAdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\OrderAdminController.cs",
@@ -1283,7 +1257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "CategoryAdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\CategoryAdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\CategoryAdminController.cs",
@@ -1295,7 +1269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "ProductAdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\ProductAdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\ProductAdminController.cs",
@@ -1307,7 +1281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\AdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\AdminController.cs",
@@ -1319,7 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\OrderController.cs",
@@ -1331,7 +1305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "ShoppingCartController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\ShoppingCartController.cs",
@@ -1343,7 +1317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\CategoryController.cs",
@@ -1352,18 +1326,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T07:16:57.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "MyOnlineShop\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T07:16:37.435Z"
             }
           ]
         }
