@@ -1,4 +1,6 @@
-﻿namespace MyOnlineShop.Controllers.Admin
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace MyOnlineShop.Controllers.Admin
 {
     public class AdminController
     {
