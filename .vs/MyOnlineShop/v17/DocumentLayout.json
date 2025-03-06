@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\managerolesadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\managerolesadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\settingadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\settingadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\customeradminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\customeradminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\orderadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\orderadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\categoryadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\categoryadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\productadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\productadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\productdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\categoryadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\categoryadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\managerolesadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\managerolesadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\controllers\\admin\\productadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,18 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\customeradminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\customeradminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\orderadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\orderadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\viewmodels\\admin\\productadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|solutionrelative:myonlineshop\\viewmodels\\admin\\productadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5397D51-EB4E-466C-9F89-E5BA8A5000F6}|MyOnlineShop\\MyOnlineShop.csproj|d:\\c#\\proje\\myonlineshop\\myonlineshop\\myonlineshop\\views\\shared\\_notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -346,11 +346,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingAdminViewModel.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
+              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
+              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
+              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:23:51.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ManageRolesAdminViewModel.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\ManageRolesAdminViewModel.cs",
+              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\ManageRolesAdminViewModel.cs",
+              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\ManageRolesAdminViewModel.cs",
+              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\ManageRolesAdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:01:46.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerAdminViewModel.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
+              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
+              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
+              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:23:42.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderAdminViewModel.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
+              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
+              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
+              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:23:34.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryAdminViewModel.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
+              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
+              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
+              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:23:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductAdminViewModel.cs",
+              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
+              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
+              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
+              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:23:14.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "OrderViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\OrderViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\OrderViewModel.cs",
@@ -363,20 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SettingAdminViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
-              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
-              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
-              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\SettingAdminViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:23:51.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ProductDetailsViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\ProductDetailsViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\ProductDetailsViewModel.cs",
@@ -389,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CategoryViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\CategoryViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\CategoryViewModel.cs",
@@ -402,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ProductViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\ProductViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\ProductViewModel.cs",
@@ -415,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\HomeViewModel.cs",
@@ -428,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ProductListViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\ProductListViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\ProductListViewModel.cs",
@@ -441,20 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryAdminViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
-              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
-              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
-              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\CategoryAdminViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:23:24.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\RegisterViewModel.cs",
@@ -467,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\LoginViewModel.cs",
@@ -480,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ShoppingCartViewModel.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\ShoppingCartViewModel.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\ShoppingCartViewModel.cs",
@@ -493,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\AdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\AdminController.cs",
@@ -506,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ProductAdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\ProductAdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\ProductAdminController.cs",
@@ -519,20 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ManageRolesAdminViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\ManageRolesAdminViewModel.cs",
-              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\ManageRolesAdminViewModel.cs",
-              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\ManageRolesAdminViewModel.cs",
-              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\ManageRolesAdminViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T10:01:46.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\AccountController.cs",
@@ -545,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "CategoryAdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\CategoryAdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\CategoryAdminController.cs",
@@ -558,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "CustomerAdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\CustomerAdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\CustomerAdminController.cs",
@@ -571,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "OrderAdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\OrderAdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\OrderAdminController.cs",
@@ -584,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "SettingAdminController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\Admin\\SettingAdminController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\Admin\\SettingAdminController.cs",
@@ -597,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ShoppingCartController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\ShoppingCartController.cs",
@@ -610,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\ProductController.cs",
@@ -623,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\OrderController.cs",
@@ -636,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\HomeController.cs",
@@ -649,7 +688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "MyOnlineShop\\Controllers\\CategoryController.cs",
@@ -658,45 +697,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T07:16:57.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CustomerAdminViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
-              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
-              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
-              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\CustomerAdminViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:23:42.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "OrderAdminViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
-              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
-              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
-              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\OrderAdminViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:23:34.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ProductAdminViewModel.cs",
-              "DocumentMoniker": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
-              "RelativeDocumentMoniker": "MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
-              "ToolTip": "D:\\c#\\proje\\MyOnlineShop\\MyOnlineShop\\MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
-              "RelativeToolTip": "MyOnlineShop\\ViewModels\\Admin\\ProductAdminViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:23:14.989Z",
               "EditorCaption": ""
             },
             {
