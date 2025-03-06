@@ -2,7 +2,13 @@
 
 namespace MyOnlineShop.Controllers.Admin
 {
-    public class AdminController
+    [Area("Admin")]
+    public class AdminController : Controller
     {
+        public IActionResult Index()
+        {
+            // داشبورد پنل مدیریت
+            return View();
+        }
     }
 }
