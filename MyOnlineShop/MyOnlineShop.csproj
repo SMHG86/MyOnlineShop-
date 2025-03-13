@@ -28,7 +28,6 @@
 
   <ItemGroup>
     <Folder Include="Data\Migrations\" />
-    <Folder Include="Data\Entities\" />
     <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
