@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using MyOnlineShop.Services;
 using MyOnlineShop.ViewModels.Admin;
 using MyOnlineShop.ViewModels;
+using MyOnlineShop.Services.Interfaces;
 
 namespace MyOnlineShop.Services.Implementations
 {
