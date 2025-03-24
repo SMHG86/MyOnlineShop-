@@ -6,12 +6,12 @@ namespace MyOnlineShop.Data.Repositories
 {
     public interface IBannerRepository
     {
-       // Banner GetBannerById(int bannerId);
-       // List<Banner> GetAllBanners();
-       // List<Banner> GetPublishedBanners(); // دریافت بنرهای منتشر شده
+        Banner GetBannerById(int bannerId);
+        List<Banner> GetAllBanners();
+        List<Banner> GetPublishedBanners(); // دریافت بنرهای منتشر شده
 
-       // void AddBanner(Banner banner);
-       // void UpdateBanner(Banner banner);
-       // void DeleteBanner(int bannerId);
+        void AddBanner(Banner banner);
+        void UpdateBanner(Banner banner);
+        void DeleteBanner(int bannerId);
     }
 }
